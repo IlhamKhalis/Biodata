@@ -1,0 +1,9 @@
+table{
+    background: transparent;
+    border: 1px;
+}
+
+body{
+    background-image: url(assets/img/gambar.jpg);
+    background-size: cover;
+}
